@@ -13,4 +13,4 @@ print (a < b)
 
 print (b < c)
 
-print ("é nois")
+print ("tamo junto")
